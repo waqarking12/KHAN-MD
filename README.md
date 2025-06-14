@@ -114,8 +114,18 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/2303" target="_blank">
+      <a href="https://github.com/JawadTechXD/KHAN-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/JawadTechXD/KHAN-MD" target="_blank">
+        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
   </tr>

@@ -178,20 +178,10 @@ ___
 
 </div>
 
-<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-📊 KHAN-MD • PROJECT INSIGHTS
-</h2>
-
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
-
-<a href="https://github.com/JawadYT36/KHAN-MD" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadYT36&repo=KHAN-MD&theme=tokyonight&border_color=9D00FF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="420" alt="KHAN-MD GitHub Stats"/>
-</a>
-
-</div>
+---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS — KHAN-MD
+🧾 PROJECT STATS KHAN-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">

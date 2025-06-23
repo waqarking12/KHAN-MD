@@ -199,12 +199,18 @@
 
 ## 👑 KHAN STATUS
 
-```diff
 + Project Status: Active
 ! Version: 5.0.0 Neon Edition
 # License: APACHE
-```
 
 <div align="center">
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
+
+<hr>
+
+<h3 align="center">🙏 Thanks for using!</h3>
+<p align="center">
+  If you like this project, consider giving it a ⭐ on GitHub.<br>
+  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+</p>

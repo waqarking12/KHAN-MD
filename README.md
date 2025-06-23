@@ -1,14 +1,18 @@
-<p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00FFFF, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
-</p>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 25px #0088FF;">
+𝗞𝗛𝗔𝗡-𝗠𝗗
+</h1>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
+
+---
 
 <h2 align="center">📊 KHAN-MD Analytics </h2> 
 
-___
+---
 
 <div align="center">
 
@@ -78,23 +82,37 @@ ___
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if Connection issues may require VPN activation
+> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
-> **PAIRING LINK (01)**
-  <a href='https://khanmd-pair.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-  
-> **PAIRiNG LINK (02)**
-  <a href='https://jawadmd-pair.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; padding:20px;">
+
+  <!-- Link 1 -->
+  <div style="background:#0f0f0f; border:2px solid #00FFFF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #00ffff; min-width:250px; text-align:center;">
+    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
+      🔗 <strong>Pairing Server 01</strong>
+    </p>
+    <a href="https://khanmd-pair.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+    </a>
+  </div>
+
+  <!-- Link 2 -->
+  <div style="background:#0f0f0f; border:2px solid #FF00FF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #ff00ff; min-width:250px; text-align:center;">
+    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
+      🔗 <strong>Pairing Server 02</strong>
+    </p>
+    <a href="https://jawadmd-pair.onrender.com/pair" target="_blank">
+      <img src="https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+    </a>
+  </div>
+
+</div>
   
 ---
 
 ## 📡 DEPLOYMENT SITES
+
+<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
@@ -144,9 +162,12 @@ ___
   </tr>
 </table>  
 
+<hr>
+<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
+
 ---
 
-## ✨ Features
+## ✨ KHAN-MD Features
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)

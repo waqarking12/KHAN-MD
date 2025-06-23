@@ -142,16 +142,23 @@
   </tr>
 </table>  
 
-## 🌟 BOT FEATURES
+---
 
-```bash
-✦ Antidelete, Antiviewonce, Antilink
-✦ High speed YT, Tiktok, FB, IG Downloaders
-✦ 10+ AI models + Image anlysis AI
-✦ Fast low latensie, Powerful
-✦ Futuristic Cool ICY UI
-```
+## ✨ Features
 
+- 🤖 WhatsApp Multi-Device Support
+- 🔁 Anti-Delete (Text + Media)
+- 🎵 YouTube Audio Downloader
+- 📥 Media Downloader (Instagram, TikTok, etc.)
+- 🧠 AI Chatbot
+- 💬 Group Moderation Commands
+- 📛 Auto Sticker Response
+- 🎮 Word Relay & Game Plugins
+- 👮 Admin Tools (Ban, Kick, Promote)
+- 🌐 Web-based Pairing Interface
+- 📤 Sticker Maker (Image to Sticker)
+
+---
 <div align="center">
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>

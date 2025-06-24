@@ -92,21 +92,9 @@
       🔗 <strong>Pairing Server 01</strong>
     </p>
     <a href="https://khanmd-pair.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0FF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
-
-  <!-- Link 2 -->
-  <div style="background:#0f0f0f; border:2px solid #FF00FF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #ff00ff; min-width:250px; text-align:center;">
-    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
-      🔗 <strong>Pairing Server 02</strong>
-    </p>
-    <a href="https://jawadmd-pair.onrender.com/pair" target="_blank">
-      <img src="https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
-    </a>
-  </div>
-
-</div>
   
 ---
 
